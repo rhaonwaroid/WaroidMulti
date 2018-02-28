@@ -1,0 +1,15 @@
+{
+    "Title": "Waroid Arena Data",
+    "Date": "2017-11-07T17:43:53",
+    "Version": 1,
+    "Data": {
+		"DEVICE0": {
+			"x":0,
+			"y":0,
+			"z":0,
+			"rotationx":0,
+			"rotationy":0,
+			"rotationz":0
+		}
+    }
+}
